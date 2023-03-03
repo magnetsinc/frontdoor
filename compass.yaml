@@ -7,10 +7,7 @@ fields:
   lifecycle: Active
   tier: 1
 links:
-  - name: null
-    type: REPOSITORY
-    url: 'https://github.com/magnetsinc/frontdoor'
-  - name: ''
+  - name: 'On-calls schedule'
     type: ON_CALL
     url: 'https://compass-magnets.app.opsgenie.com/settings/schedule/detail/ab62f449-2e61-4742-a1f0-fc9c132b3ce3'
 relationships: {}
