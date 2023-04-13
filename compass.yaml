@@ -11,7 +11,7 @@ links:
     type: ON_CALL
     url: 'https://compass-magnets.app.opsgenie.com/settings/schedule/detail/ab62f449-2e61-4742-a1f0-fc9c132b3ce3'
 relationships:
-  - DEPENDS_ON:
+  DEPENDS_ON:
     - ari:cloud:compass:7d7a1354-b50b-4f1e-b409-1f3c509aea99:component/910c34fb-0e18-40c8-8568-c31a5cefb046/1d243600-59a0-4643-8e83-454c33ced54c
 
 # Learn more about formatting compass.yml:
